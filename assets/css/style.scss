@@ -1,12 +1,12 @@
----
----
+/* --- 기존 내용 아래에 추가 --- */
 
-@import "{{ site.theme }}";
+/* 포스트 목록 스타일 */
+.post-list {
+  list-style-type: none; /* 리스트 앞의 점(•) 제거 */
+  padding-left: 0;      /* 왼쪽 기본 여백 제거 */
+}
 
-/* * 이 아래에 직접 원하는 CSS 코드를 추가하여
- * 기존 테마의 스타일을 덮어쓰거나 새로운 스타일을 추가할 수 있습니다.
- */
-
-body {
-    background-color: #f8f9fa; /* 예시: 배경색을 아주 연한 회색으로 변경 */
+.post-list a {
+  font-size: 1.2rem;     /* 폰트 크기를 약간 키움 */
+  text-decoration: none; /* 링크 밑줄 제거 */
 }
