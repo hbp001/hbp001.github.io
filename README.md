@@ -1,6 +1,6 @@
 # AIS-LLM: A Unified Framework for Maritime Trajectory Prediction, Anomaly Detection, and Collision Risk Assessment with Explainable Forecasting
 
-![intro_teaser](/hbp001.github.io/assets/Intro_teaser.png)
+![intro_teaser](./assets/Intro_teaser.png)
 **Overview of the AIS-LLM Framework.** The system takes maritime AIS data as input (left) and performs three key maritime traffic analysis tasks simultaneously through an integrated end-to-end architecture: (1) **Trajectory Prediction** – predicts vessel trajectories over a given time horizon; (2)**Vessel Collision Risk Assessment** – quantifies the likelihood of collisions and estimates a collision risk index; (3) **Anomaly Traffic Detection** – identifies abnormal vessel behaviors. All prediction results are accompanied by interpretable explanations in natural language.
 
 ## Abstract
