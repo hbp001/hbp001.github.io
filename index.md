@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Publications
+# Paper List
 
 <ul class="post-list">
   {% for post in site.posts %}
