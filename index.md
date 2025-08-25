@@ -1,11 +1,11 @@
----
+<!-- ---
 layout: default
 title: Home
 ---
 
 # My Paper
 
----
+--- -->
 
 <ul>
   {% for post in site.posts %}
