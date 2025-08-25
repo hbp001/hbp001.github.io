@@ -1,0 +1,8 @@
+# Jekyll-generated directory
+_site/
+
+# Sass-generated directory
+.sass-cache/
+
+# Jekyll metadata file
+.jekyll-metadata
