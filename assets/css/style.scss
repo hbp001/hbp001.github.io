@@ -1,11 +1,7 @@
 ---
 ---
-@import "{{ site.theme }}";
 
-/* ====================================================
-아래부터 사용자 정의 스타일입니다. 
-====================================================
-*/
+@import "jekyll-theme-cayman";
 
 /* 1. 왼쪽 사이드바(헤더) 숨기기 */
 .page-header {
@@ -14,7 +10,7 @@
 
 /* 2. 본문(main-content)을 가운데로 정렬하고 너비 조절 */
 .main-content {
-  max-width: 960px; /* 본문의 최대 너비를 960px로 설정 (원하는 크기로 조절 가능) */
-  margin: 40px auto; /* 위아래 여백 40px, 좌우 여백은 자동으로 맞춰 중앙 정렬 */
-  float: none; /* 기존의 float 속성 제거 */
+  max-width: 960px;
+  margin: 40px auto;
+  float: none;
 }
