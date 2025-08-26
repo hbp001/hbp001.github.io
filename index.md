@@ -13,13 +13,13 @@ title: Home
   {% endfor %}
 </ul> -->
 
----
+<!-- ---
 <!-- layout: post -->
 layout: default
 title: "AIS-LLM: A Unified Framework for Maritime Trajectory Prediction, Anomaly Detection, and Collision Risk Assessment with Explainable Forecasting"
----
+--- -->
 
-<!-- # AIS-LLM: A Unified Framework for Maritime Trajectory Prediction, Anomaly Detection, and Collision Risk Assessment with Explainable Forecasting -->
+# AIS-LLM: A Unified Framework for Maritime Trajectory Prediction, Anomaly Detection, and Collision Risk Assessment with Explainable Forecasting
 
 **Hyobin Park<sup>1,*</sup>, Jinwook Jung<sup>1,*</sup>, Minseok Seo<sup>2,4</sup>, Hyunsoo Choi<sup>3</sup>, Deukjae Cho<sup>3</sup>, Sekil Park<sup>3,†</sup>, Dong-Geol Choi<sup>1,2,†</sup>**
 
