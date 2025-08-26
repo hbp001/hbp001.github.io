@@ -78,3 +78,4 @@ Qualitative comparison of vessel trajectory prediction results between the propo
 AIS-LLM analyzes maritime traffic conditions using vessel data and produces interpretable natural language descriptions. It explains trajectory predictions with insights on
 expected movement and speed variations, identifies anomalies with descriptions of abnormal behaviors and severity, and assesses collision risks by interpreting CPA details. All outputs combine quantitative analysis with human-readable explanations via the LLM decoder, offering intuitive support for maritime decision-making.
 
+---
